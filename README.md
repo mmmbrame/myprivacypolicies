@@ -7,3 +7,8 @@ Public privacy policies and user privacy choices for apps.
 - [Support](dotsandboxes-support.html)
 - [Privacy Policy](dotsandboxes-privacy-policy.html)
 - [User Privacy Choices](dotsandboxes-privacy-choices.html)
+
+## Waning Rift
+
+- [Support](waningrift-support.html)
+- [Privacy Policy](waningrift-privacy-policy.html)
