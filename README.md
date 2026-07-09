@@ -12,3 +12,8 @@ Public privacy policies and user privacy choices for apps.
 
 - [Support](waningrift-support.html)
 - [Privacy Policy](waningrift-privacy-policy.html)
+
+## Rebuild With Me
+
+- [Support](rebuildwithme-support.html)
+- [Privacy Policy](rebuildwithme-privacy-policy.html)
