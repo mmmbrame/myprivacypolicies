@@ -18,8 +18,8 @@ Public privacy policies and user privacy choices for apps.
 - [Support](rebuildwithme-support.html)
 - [Privacy Policy](rebuildwithme-privacy-policy.html)
 
-## Ather Maze
+## Aether Maze
 
-- [Support](athermaze-support.html)
-- [Privacy Policy](athermaze-privacy-policy.html)
+- [Support](aethermaze-support.html)
+- [Privacy Policy](aethermaze-privacy-policy.html)
 
