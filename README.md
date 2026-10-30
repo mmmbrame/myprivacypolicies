@@ -2,6 +2,12 @@
 
 Public privacy policies and user privacy choices for apps.
 
+## Dune Smash
+
+- [Support](dunesmash-support.html)
+- [Privacy Policy](dunesmash-privacy-policy.html)
+- [User Privacy Choices](dunesmash-privacy-choices.html)
+
 ## DotsAndBoxes
 
 - [Support](dotsandboxes-support.html)
